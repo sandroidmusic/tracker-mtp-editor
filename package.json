@@ -21,7 +21,7 @@
     "test": "npm run formatting && npm run lint && npm run typecheck"
   },
   "dependencies": {
-    "@polyend/tracker-lib": "^0.1.1",
+    "@polyend/tracker-lib": "^0.1.2",
     "@vueuse/core": "^13.4.0",
     "vue": "^3.5.13"
   },
